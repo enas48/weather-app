@@ -8,7 +8,7 @@ $(document).ready(function () {
       $.ajax({
         type: "POST",
         url:
-          "http://api.weatherapi.com/v1/current.json?key=b0e209df6cd347af9a9173024231611&q=" +
+          "https://api.weatherapi.com/v1/current.json?key=b0e209df6cd347af9a9173024231611&q=" +
           $("#search").val(),
         dataType: "json",
         success: function (result, status, xhr) {
