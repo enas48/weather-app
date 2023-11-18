@@ -167,7 +167,7 @@
     animation: spin 2s linear infinite;
     position: relative;
     left: 50%;
-    top: 65px;
+    top: 10px;
     transform: translateX(-50%);
     display: none;
 }
