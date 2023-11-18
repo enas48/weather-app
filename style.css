@@ -124,7 +124,7 @@
     flex-direction: column;
     gap: 5px;
     margin: 0.5rem;
-    background: linear-gradient(132deg, transparent 0%, #383838 100%);
+    background: linear-gradient(132deg, #0e0e0e 0%, transparent 100% );
     padding: 0.6rem;
     box-shadow: 1px 1px 3px #000;
     border-radius: 7px;
